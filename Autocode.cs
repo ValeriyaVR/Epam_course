@@ -4,9 +4,10 @@ namespace epam_course
 {
     static void Main ()
     {
-        string str = "Hello world"
-        var a = 123
+        string str = "Hello world";
+        var a = 123;
 
-        Console.WriteLine(str + a )
+        Console.WriteLine(str + a );
+
     }
 }
