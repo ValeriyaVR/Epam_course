@@ -12,6 +12,10 @@ namespace cs
             Console.WriteLine (a + b);
             Console.WriteLine("Hello World ");
             
+
+
+            var foigpd = 24235
+            
         }
     }
 }
