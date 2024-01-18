@@ -1,6 +1,7 @@
 using System;
 
-namespace epam_course
+namespace epam_course;
+
 {
     static void Main ()
     {
